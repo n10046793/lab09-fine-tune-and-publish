@@ -1,0 +1,54 @@
+{
+  "chosen_method": "full",
+  "learning_rate": 5e-05,
+  "epochs": 3,
+  "test": {
+    "full": {
+      "accuracy": 0.9,
+      "macro_f1": 0.9025270857291264
+    },
+    "most_common": {
+      "accuracy": 0.2916666666666667,
+      "macro_f1": 0.11290322580645161
+    },
+    "tfidf": {
+      "accuracy": 0.8458333333333333,
+      "macro_f1": 0.846338134599963
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "billing",
+      "bike_fault",
+      "station",
+      "account"
+    ],
+    "matrix": [
+      [
+        49,
+        3,
+        3,
+        0
+      ],
+      [
+        1,
+        65,
+        4,
+        0
+      ],
+      [
+        0,
+        5,
+        61,
+        0
+      ],
+      [
+        1,
+        3,
+        4,
+        41
+      ]
+    ]
+  },
+  "own_messages_accuracy": 0.9
+}
