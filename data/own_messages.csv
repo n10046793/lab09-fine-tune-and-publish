@@ -1,0 +1,41 @@
+text,label
+got charged for a ride i cancelled before unlocking anything,billing
+nine bucks for a six minute trip that cant be right,billing
+docked it on time and still got a late fee,billing
+theres a charge from tuesday on my card i dont recognise,billing
+bought the yearly plan in september but im being billed monthly again,billing
+app said four dollars but my bank took eleven,billing
+dock wouldnt end my trip so the meter kept running for an hour and i want a refund,billing
+deposit hold from last week is still sitting on my card,billing
+two identicle charges for one ride yesterday,billing
+pass price went up with no warning at all,billing
+front break is basically useless and scary going downhill,bike_fault
+tyre was flat the second i unlocked it,bike_fault
+chain came off halfway up the hill and i had to walk,bike_fault
+seat slides down every few minutes no matter what i do,bike_fault
+no lights working on this bike so i rode home in the dark,bike_fault
+pedals feel like theyre about to fall off,bike_fault
+stuck in top gear and wont shift down at all,bike_fault
+rear wheel wobbles badly the whole way,bike_fault
+bars are twisted and theres no bell,bike_fault
+grinding noise from the wheels with every pedal stroke,bike_fault
+dock by the library wont let any bikes out,station
+every single dock is full at king so theres nowhere to leave mine,station
+not one bike near the station this morning so i had to walk to work,station
+kiosk screen is completly frozen,station
+this station has had zero bikes for days now,station
+light stays red and the bike wont lock to end the trip,station
+terminal keeps saying my code is invalid,station
+seriously need more docks here because its full every evening,station
+returned the bike but never got confirmation that it worked,station
+locking post clicks but wont release the bike,station
+reset password email never arrives no matter how many times i try,account
+cant log in since the app updated yesterday,account
+need to update the email on my account because the old inbox is closed,account
+says expired but i renewed last week,account
+how do i delete my account and all my data,account
+says my number is already in use by another account,account
+want to move from monthly to yearly billing,account
+my name is mispelled in my profile,account
+the verification code text never comes through,account
+can i freeze my membership while im away for the summer,account
